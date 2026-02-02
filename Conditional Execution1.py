@@ -12,5 +12,7 @@ if choice == "yes":
 #the ":" means that after that will be a tab/ block that connects to the part above.
 print("buenos días")  #the if has no power here for example
 
+
+
 # 2nd (if and else)
 
